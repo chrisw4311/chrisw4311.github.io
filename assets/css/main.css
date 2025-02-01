@@ -685,10 +685,11 @@ section,
 # Skills Section
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 80px;
+  height: 60px;
   display: block;
   background: none;
   border-radius: 0;
+  font-size: 16px;
 }
 
 .skills .progress .skill {
