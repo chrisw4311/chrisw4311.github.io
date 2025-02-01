@@ -679,6 +679,7 @@ section,
   margin: 0 0 0 60px;
   font-family: var(--heading-font);
   font-size: 14px;
+  font-weight: ;
 }
 
 /*--------------------------------------------------------------
@@ -690,6 +691,7 @@ section,
   background: none;
   border-radius: 0;
   font-size: 16px;
+  font-weight: 600;
 }
 
 .skills .progress .skill {
